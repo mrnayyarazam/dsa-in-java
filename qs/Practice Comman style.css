@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 1000px;
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(1, 1, 1);
+    border-left-color:blueviolet;
+    border-bottom-style:solid ;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    padding:10px 20px 30px 50px ;
+    
+    
+}
+/* h1{
+background-color: blueviolet;
+} */
